@@ -1,0 +1,8 @@
+services:
+  app:
+    container_name: mirrors-china
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1233:80"
