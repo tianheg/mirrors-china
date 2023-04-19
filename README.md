@@ -1,5 +1,28 @@
 # Mirrors China
 
+## TODO
+
+- [x] Upgrade to Vue3
+- [x] Docker support
+- [ ] Pinia how to work:
+
+```js
+// Vue2 + Vuex + Vue router
+router.beforeEach((to, from, next) => {
+  store.dispatch("onLoading", true);
+  next();
+});
+
+router.afterEach((to, from) => {
+  store.dispatch("onLoading", false);
+});
+```
+
+How to convert it use Pinia?([code source](https://github.com/lework/lemonitor/blob/1b9912fa675f254011d59f725c45fc0bc80997a9/src/main.js))
+
+- [ ] 100% test coverage
+- [ ] tidy style
+
 ## Setup
 
 ```sh
