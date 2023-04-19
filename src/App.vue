@@ -24,7 +24,7 @@ const store = useLoadingStore()
   <div class="footer">
     Original from
     <a href="https://github.com/lework/lemonitor" target="_blank">lework/lemonitor</a>, customed by
-    <a href="https://github.com/tianheg/lemonitor" target="_blank">tianheg/lemonitor</a>
+    <a href="https://github.com/tianheg/mirrors-china" target="_blank">tianheg/mirrors-china</a>
   </div>
 </template>
 
