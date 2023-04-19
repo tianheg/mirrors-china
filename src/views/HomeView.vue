@@ -1,6 +1,6 @@
 <script setup>
 import { reactive, ref, onMounted } from 'vue'
-import { message } from 'ant-design-vue'
+import { message, InputSearch as aInputSearch, Spin as aSpin, List as aList, ListItem as aListItem,ListItemMeta as aListItemMeta, Popover as aPopover, Tag as aTag } from 'ant-design-vue'
 import axios from 'axios'
 
 let monitorData = reactive([])
