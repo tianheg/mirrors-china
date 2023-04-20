@@ -1,6 +1,7 @@
 services:
   app:
     container_name: mirrors-china
+    restart: unless-stop
     build:
       context: .
       dockerfile: Dockerfile
