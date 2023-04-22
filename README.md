@@ -23,6 +23,8 @@ How to convert it use Pinia?([code source](https://github.com/lework/lemonitor/b
 - [ ] 100% test coverage
 - [ ] tidy style
 - [ ] split one into many components
+- [ ] mirror sites sync
+- [ ] revise, supplement `tag_color` in `static/data.json` file
 
 ## Setup
 
