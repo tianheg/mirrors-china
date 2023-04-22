@@ -5,3 +5,5 @@ import getAliyun from './aliyun.mjs'
 getTuna()
 getUstc()
 getAliyun()
+
+console.log('Sync done')
