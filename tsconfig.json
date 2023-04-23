@@ -1,9 +1,5 @@
 {
   "extends": ["@tsconfig/node18/tsconfig.json", "@vue/tsconfig/tsconfig.json"],
-  "compilerOptions": {
-    "types": ["node"]
-  },
-  "files": [],
   "references": [
     {
       "path": "./tsconfig.app.json"
@@ -11,5 +7,11 @@
     {
       "path": "./tsconfig.vitest.json"
     }
-  ]
+  ],
+  "compilerOptions": {
+    "composite": true,
+    "module": "esnext",
+    "moduleResolution": "node"
+  },
+  "include": ["vite.config.ts"]
 }
