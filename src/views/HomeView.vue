@@ -1,6 +1,7 @@
 <script setup>
 import { reactive, ref, onMounted } from 'vue'
 import axios from 'axios'
+import { message } from 'ant-design-vue'
 
 let monitorData = reactive([])
 let providerData = reactive([])
