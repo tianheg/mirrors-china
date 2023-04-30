@@ -606,7 +606,7 @@
   },
   {
     "name": "北京理工大学",
-    "url": "http://mirror.bit.edu.cn/",
+    "url": "https://mirror.bit.edu.cn/",
     "item": [
       "Apache",
       "TurnKey",
@@ -651,7 +651,7 @@
   },
   {
     "name": "浙江大学",
-    "url": "http://mirrors.zju.edu.cn/",
+    "url": "https://mirrors.zju.edu.cn/",
     "item": [
       "ArchLinux",
       "CentOS",
@@ -688,7 +688,7 @@
   },
   {
     "name": "华中科技大学",
-    "url": "http://mirror.hust.edu.cn/",
+    "url": "https://mirror.hust.edu.cn/",
     "item": [
       "CPAN",
       "CTAN",
@@ -712,7 +712,7 @@
   },
   {
     "name": "兰州大学",
-    "url": "http://mirror.lzu.edu.cn/",
+    "url": "https://mirror.lzu.edu.cn/",
     "item": [
       "CPAN",
       "CRAN",
@@ -747,7 +747,7 @@
   },
   {
     "name": "东北大学",
-    "url": "http://mirror.neu.edu.cn/",
+    "url": "https://mirror.neu.edu.cn/",
     "item": [
       "android",
       "ATrpms",
@@ -767,7 +767,7 @@
   },
   {
     "name": "东软信息学院",
-    "url": "http://mirrors.neusoft.edu.cn/",
+    "url": "https://mirrors.neusoft.edu.cn/",
     "item": [
       "centos",
       "epel",
@@ -793,7 +793,7 @@
   },
   {
     "name": "重庆大学",
-    "url": "http://mirrors.cqu.edu.cn/",
+    "url": "https://mirrors.cqu.edu.cn/",
     "item": [
       "CPAN",
       "CRAN",
@@ -843,7 +843,7 @@
   },
   {
     "name": "上海交通大学",
-    "url": "http://ftp.sjtu.edu.cn/",
+    "url": "https://ftp.sjtu.edu.cn/",
     "item": [
       "archlinux",
       "centos",
@@ -921,7 +921,7 @@
   },
   {
     "name": "大连理工大学",
-    "url": "http://mirror.dlut.edu.cn/",
+    "url": "https://mirror.dlut.edu.cn/",
     "item": [
       "FreeBSD",
       "centos",
@@ -939,7 +939,7 @@
   },
   {
     "name": "搜狐",
-    "url": "http://mirrors.sohu.com/",
+    "url": "https://mirrors.sohu.com/",
     "item": [
       "CPAN",
       "FreeBSD",
@@ -1091,7 +1091,7 @@
   },
   {
     "name": "微软azure",
-    "url": "http://mirror.azure.cn/",
+    "url": "https://mirror.azure.cn/",
     "item": [
       "apache",
       "archlinux",
@@ -1133,7 +1133,7 @@
   },
   {
     "name": "淘宝",
-    "url": "http://npm.taobao.org/mirrors/",
+    "url": "https://npm.taobao.org/mirrors/",
     "item": [
       "nodejs",
       "npm"
@@ -1149,7 +1149,7 @@
   },
   {
     "name": "公云",
-    "url": "http://mirrors.pubyun.com/",
+    "url": "https://mirrors.pubyun.com/",
     "item": [
       "bitcomm",
       "centos",
@@ -1166,7 +1166,7 @@
   },
   {
     "name": "首都在线",
-    "url": "http://mirrors.yun-idc.com/",
+    "url": "https://mirrors.yun-idc.com/",
     "item": [
       "ALTLinux",
       "archlinux",
@@ -1193,7 +1193,7 @@
   },
   {
     "name": "南京邮电大学",
-    "url": "http://mirrors.njupt.edu.cn/",
+    "url": "https://mirrors.njupt.edu.cn/",
     "item": [
       "archlinux",
       "centos",
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "厦门大学",
-    "url": "http://mirrors.xmu.edu.cn/",
+    "url": "https://mirrors.xmu.edu.cn/",
     "item": [
       "centos",
       "gentoo"
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "云南大学",
-    "url": "http://mirrors.ynu.edu.cn/",
+    "url": "https://mirrors.ynu.edu.cn/",
     "item": [
       "arch4edu",
       "archlinux",
