@@ -4,7 +4,7 @@
 
 - [x] Upgrade to Vue3
 - [x] Docker support
-- [ ] Pinia how to work:
+- [ ] Pinia how to work with router like Vuex:
 
 ```js
 // Vue2 + Vuex + Vue router
