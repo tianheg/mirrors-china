@@ -4,7 +4,7 @@ import axios from 'axios'
 import { message } from 'ant-design-vue'
 
 let monitorData = reactive([])
-let providerData = reactive([])
+let providerData = reactive({})
 let softwareList = reactive([])
 let softwareData = reactive({})
 let search_text = ref('')
