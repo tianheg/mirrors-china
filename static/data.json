@@ -46,6 +46,7 @@
       "deb-multimedia",
       "debian",
       "debian-cd",
+      "debian-elts",
       "debian-nonfree",
       "debian-security",
       "deepin",
@@ -120,7 +121,6 @@
       "lyx",
       "macports",
       "manjaro",
-      "manjaro-arm",
       "mariadb",
       "miniforge",
       "minikube",
@@ -340,6 +340,7 @@
       "rustup",
       "sagemath",
       "saltstack",
+      "sb",
       "scientificlinux",
       "slackware",
       "stackage",
@@ -377,6 +378,8 @@
       "deepin",
       "mongodb",
       "NPM",
+      "rustup",
+      "crates.io-index",
       "kali",
       "debian",
       "manjaro",
@@ -465,9 +468,7 @@
       "putty",
       "puppy",
       "postmarketOS",
-      "postmarketOS-images",
-      "ovirt",
-      "osmc"
+      "postmarketOS-images"
     ]
   },
   {
